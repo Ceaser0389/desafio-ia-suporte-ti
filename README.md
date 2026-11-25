@@ -54,29 +54,33 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+# Kit de Produtividade com IA — Desafio DIO
 
-### Meus Atalhos
+Repositório criado a partir do template do desafio da DIO, reunindo dois atalhos adaptados para a minha rotina técnica e o registro de uma tarefa real delegada à IA com aprovação do plano e conferência do resultado.
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+## Minha Entrega
 
-```text
-Cole aqui o seu primeiro atalho, já adaptado.
-```
+### 1. Atalhos Adaptados e Testados
 
-```text
-Cole aqui o seu segundo atalho, já adaptado.
-```
+#### Atalho 1: Comunicação de Ajuste de Prazo Técnico
+* **O que fica fixo:** Estrutura de atualização objetiva contendo causa do impacto, ações técnicas já tomadas, nova data de entrega e disponibilidade para alinhamento.
+* **O que muda a cada uso:** Entrega/funcionalidade afetada, motivo técnico, status dos testes e novo prazo.
+* **Prompt adaptado:**
 
-### Minha Delegação
+CONTEXTO
+Estou escrevendo para o Gerente de Projetos e o Product Owner (PO) da minha equipe de desenvolvimento de software.
 
-```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
-```
+INSTRUÇÃO
+Ajude a reorganizar e revisar o conteúdo abaixo para que fique bem estruturado.
 
-### O Plano da IA
+OBJETIVO
+Quero que eles entendam que a entrega da API de pagamentos vai atrasar 2 dias devido a uma instabilidade na documentação do parceiro, mas que já temos um plano de ação e a nova data está garantida.
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+FORMATO
+Entregue em e-mail, com tom profissional e direto.
+
+CONTEÚDO BASE
+Oi pessoal, então, a integração da API de pagamento não vai dar pra entregar hoje conforme combinado. O sistema do parceiro mudou uns campos sem avisar e deu erro nos testes. Já falei com o suporte deles e ajustei o código aqui, mas preciso rodar todos os testes de segurança de novo. Vou precisar de mais dois dias, entregando na quinta-feira sem falta.
 
 ### O Resultado
 
